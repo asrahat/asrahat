@@ -22,8 +22,8 @@
 🎨 Focused on clean UI & smooth user experience  
 🧠 Currently learning advanced Next.js & backend integration  
 🎯 Goal: Become a professional full-stack developer  
+```
 ---
-
 <!-- ================= TECH STACK ================= -->
 
 ## 🛠️ Tech Stack
