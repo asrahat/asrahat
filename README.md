@@ -15,13 +15,13 @@
 
 <!-- ================= ABOUT ================= -->
 
-## 💡 About Me
+## 🚀 About Me
 
-* ⚡ I build **fast, responsive, and production-ready web applications**
-* 🎨 Focused on **clean UI & smooth user experience**
-* 🧠 Currently learning **advanced Next.js & backend integration**
-* 🎯 Goal: Become a **professional full-stack developer**
-
+```txt
+⚡ I build fast, responsive, and production-ready web applications  
+🎨 Focused on clean UI & smooth user experience  
+🧠 Currently learning advanced Next.js & backend integration  
+🎯 Goal: Become a professional full-stack developer  
 ---
 
 <!-- ================= TECH STACK ================= -->
