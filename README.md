@@ -31,38 +31,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,nodejs,mongodb,firebase,figma" />
 </p>
 
----
 
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-### 📰 News App
-
-🔗 https://your-live-link.com
-
-* Dynamic API-based news platform
-* Category filtering & detailed pages
-* Built with Next.js & Tailwind
-
----
-
-### 👟 Sneaker Store UI
-
-🔗 https://your-live-link.com
-
-* Modern e-commerce UI design
-* Fully responsive layout
-* Clean and minimal UI
-
----
-
-### 🔐 Auth System App *(Coming Soon)*
-
-* Secure authentication system
-* Full-stack architecture
-
----
 
 <!-- ================= STATS ================= -->
 
