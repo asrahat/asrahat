@@ -4,7 +4,8 @@
 
 <h3 align="center">
 🚀 Frontend Developer | Building Modern, Scalable Web Apps
-</h3>
+</h3><img width="1983" height="793" alt="myBanner" src="https://github.com/user-attachments/assets/32748026-a877-422c-a7a1-548343949468" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Next.js+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning+New+Things" />
